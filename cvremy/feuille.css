@@ -1,0 +1,29 @@
+.citation{
+  color: blue ;
+
+}
+.alignement{
+  text-align: center ;
+}
+.formation{
+  border: 2px navy groove;
+  border-radius: 10px 5px 10px 2px
+
+}
+body
+{
+  background: url("paysage.png") fixed;
+}
+
+@font-face {
+  font-family: "Mapolice" ;
+  src: url(ITCBLKAD.ttf) format('truetype');
+}
+h1 {
+  font-family: "Mapolice";
+}
+
+
+h1{
+  text-shadow: 2px 2px 6px navy
+}
